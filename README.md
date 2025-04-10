@@ -2,7 +2,8 @@
 
 Welcome to the **Griha Pravesh Thank You Page** — a warm, beautifully designed web page that expresses heartfelt gratitude to friends and family who joined in celebrating a housewarming ceremony.
 
-![Floral Background](https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1950&q=80)
+![Floral Background]([https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1950&q=80](https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1950&q=80
+))
 
 ## ✨ Features
 
