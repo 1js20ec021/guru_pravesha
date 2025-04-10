@@ -1,46 +1,37 @@
 # guru_pravesha
-# 🏡 Griha Pravesh Thank You Messages
+# 🌸 Griha Pravesh Thank You Page
 
-A heartfelt digital gesture to express gratitude to all the wonderful guests who joined us for our **housewarming (Griha Pravesh)** celebration.
+This is a beautifully designed webpage created to thank everyone who attended our **Griha Pravesh** (housewarming) ceremony. It features a heartfelt message and a floral background to match the warmth and joy of the occasion.
 
-This is a simple, elegant webpage that randomly displays one of 300+ personalized thank-you messages, each crafted with warmth, love, and sincerity.
+## 💖 Purpose
 
-## 💖 Features
+Moving into a new home is a momentous occasion, and having loved ones by our side made it even more special. This page serves as a small token of our gratitude for your presence, blessings, and gifts.
 
-- 300+ unique, personal thank-you notes
-- Beautiful and cozy background design
-- Automatic message cycling or refresh-to-randomize
-- Fully responsive and mobile-friendly
-- Easy to customize or expand
+## 🌼 Features
+
+- Elegant floral background for a warm, inviting feel
+- Centered thank-you note with personal touch
+- Mobile-friendly and responsive design
 
 ## 🛠️ How to Use
 
-1. **Open the HTML file** (`index.html`) in any browser.
-2. A thank-you message will appear at random.
-3. Refresh the page (or use the included cycle button, if available) to view a new message.
+1. Clone or download this repository.
+2. Open `index.html` in any modern web browser.
+3. That's it! Your thank-you message is ready to view or share.
 
-### Optional:
-- You can host the page online or send it as a link to your guests.
-- Replace the background image or font styles to better match your aesthetic.
+## 📝 Customization
 
-## 📁 Files
+- To change the thank-you message, edit the text inside the `<h1>` and `<p>` tags in `index.html`.
+- To use a different background image, replace the `background` URL in `style.css`.
 
-- `index.html` – main page displaying the thank-you messages
-- `style.css` – styles for layout, font, and background
-- `script.js` – logic for displaying random messages
-- `messages.js` (optional) – contains the array of messages
-- `assets/` – folder for images (e.g., background)
+## 📷 Background Image
 
-## 🌄 Background Image Credit
+The current floral background is from [Unsplash](https://unsplash.com), giving the page a soft and welcoming aesthetic.
 
-Image courtesy of [Unsplash](https://unsplash.com/)  
-Photographer: *[Photographer Name]* (add link if required)
+## 🙏 Thank You!
 
-## 📬 With Love
+Once again, thank you for being a part of our special day and for your continuous support and love.
 
-Created with joy and gratitude to honor the warmth and blessings shared by our dear friends and family.
+With gratitude,  
+**[Your Name / Family Name]**
 
----
-
-> “Gratitude turns what we have into enough — and more.”  
-> Thank you for being a part of our special day. 💛
