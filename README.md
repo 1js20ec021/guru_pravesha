@@ -1,37 +1,24 @@
-# guru_pravesha
 # 🌸 Griha Pravesh Thank You Page
 
-This is a beautifully designed webpage created to thank everyone who attended our **Griha Pravesh** (housewarming) ceremony. It features a heartfelt message and a floral background to match the warmth and joy of the occasion.
+Welcome to the official repository for our **Griha Pravesh (Housewarming)** Thank You Webpage! 🎉
 
-## 💖 Purpose
+This page was created to express heartfelt gratitude to all the friends, family, and well-wishers who joined us for the celebration and sent their love and blessings.
 
-Moving into a new home is a momentous occasion, and having loved ones by our side made it even more special. This page serves as a small token of our gratitude for your presence, blessings, and gifts.
+![Floral Background](https://oaidalleapiprodscus.blob.core.windows.net/private/org-jGQhNdvA1URkWv9RaEO9EJ1k/user-9xqHpejLZk9qDPHQHVl9V4zE/img-fv9yoBWhu9FuPkiXFoVZjChF.png?st=2025-04-10T08%3A19%3A27Z&se=2025-04-10T10%3A19%3A27Z&sp=r&sv=2021-08-06&sr=b&sig=URL_ENCODED_SIG_HERE)
 
-## 🌼 Features
+## ✨ Features
 
-- Elegant floral background for a warm, inviting feel
-- Centered thank-you note with personal touch
-- Mobile-friendly and responsive design
+- 🌼 Elegant floral background (AI-generated)
+- 💌 Heartwarming thank-you message
+- 📱 Fully responsive design
+- 🎨 Easy customization for your own celebration pages
 
-## 🛠️ How to Use
+## 🔧 How to Use
 
-1. Clone or download this repository.
-2. Open `index.html` in any modern web browser.
-3. That's it! Your thank-you message is ready to view or share.
+1. Clone this repository:
 
-## 📝 Customization
+   ```bash
+   git clone https://github.com/your-username/griha-pravesh-thankyou.git
+   cd griha-pravesh-thankyou
 
-- To change the thank-you message, edit the text inside the `<h1>` and `<p>` tags in `index.html`.
-- To use a different background image, replace the `background` URL in `style.css`.
-
-## 📷 Background Image
-
-The current floral background is from [Unsplash](https://unsplash.com), giving the page a soft and welcoming aesthetic.
-
-## 🙏 Thank You!
-
-Once again, thank you for being a part of our special day and for your continuous support and love.
-
-With gratitude,  
-**[Your Name / Family Name]**
 
