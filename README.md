@@ -1,26 +1,28 @@
-# Thank You Card with Floral Background
+# 🏡 Heartfelt Housewarming Gratitude Page
 
-This project is a simple and elegant HTML page that displays a heartfelt thank-you message with a beautiful floral background. It’s perfect for sending appreciation after events like housewarming (Griha Pravesh), weddings, or celebrations.
+Welcome to the **Griha Pravesh Thank You Page** — a warm, beautifully designed web page that expresses heartfelt gratitude to friends and family who joined in celebrating a housewarming ceremony.
 
-## 🌸 Features
+![Floral Background](https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1950&q=80)
 
-- Full-page floral background using a high-quality image from Unsplash
-- Centered, styled thank-you message card
-- Responsive layout that looks good on all screen sizes
-- Easy to customize text and design
+## ✨ Features
 
-## 💐 Live Preview
+- 🌸 Floral-themed responsive background
+- 💬 Rotating thank-you messages (randomly displayed)
+- 🙏 Simple, elegant, and meaningful design
+- 🧡 Personal touch for housewarming events
 
-To see it in action, open the `index.html` file in any modern web browser.
+## 🚀 Live Preview
 
-## 🖼️ Background Image
+You can run the project in any browser or host it on GitHub Pages or Replit.  
+👉 [Live Preview on Replit](https://replit.com/@1js20ec021/chin)
 
-This project uses the following image as its floral background:
+## 📂 How to Use
 
-**Image URL:**  
-[Floral Background - Unsplash](https://images.unsplash.com/photo-1504198453319-5ce911bafcde)
+1. **Clone this repository:**
 
-## 📂 Files
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
 
 
 ```bash
