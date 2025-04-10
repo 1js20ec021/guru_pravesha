@@ -1,24 +1,16 @@
-# 🌸 Griha Pravesh Thank You Page
 
-Welcome to the official repository for our **Griha Pravesh (Housewarming)** Thank You Webpage! 🎉
+## 🌷 Customization Tips
 
-This page was created to express heartfelt gratitude to all the friends, family, and well-wishers who joined us for the celebration and sent their love and blessings.
+- 🌄 Change the background image in `index.html` by replacing the URL in `background` CSS
+- 💌 Add or edit thank-you messages inside the `messages` array
+- 🎨 Adjust fonts and colors in the `<style>` section to match your taste
+- 💻 Deploy easily using GitHub Pages!
 
-![Floral Background](https://oaidalleapiprodscus.blob.core.windows.net/private/org-jGQhNdvA1URkWv9RaEO9EJ1k/user-9xqHpejLZk9qDPHQHVl9V4zE/img-fv9yoBWhu9FuPkiXFoVZjChF.png?st=2025-04-10T08%3A19%3A27Z&se=2025-04-10T10%3A19%3A27Z&sp=r&sv=2021-08-06&sr=b&sig=URL_ENCODED_SIG_HERE)
+## 🙏 Acknowledgements
 
-## ✨ Features
+- Background image from [Unsplash](https://unsplash.com/photos/floral-background)
+- Inspired by the beauty of new beginnings and gratitude 💖
 
-- 🌼 Elegant floral background (AI-generated)
-- 💌 Heartwarming thank-you message
-- 📱 Fully responsive design
-- 🎨 Easy customization for your own celebration pages
+---
 
-## 🔧 How to Use
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/griha-pravesh-thankyou.git
-   cd griha-pravesh-thankyou
-
-
+Made with 💐 and joy for a very special occasion!
