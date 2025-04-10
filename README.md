@@ -1,16 +1,22 @@
+# 🌸 Thank You Card Webpage 🌸
 
-## 🌷 Customization Tips
+A simple and elegant HTML webpage to display a heartfelt thank-you message with a beautiful floral background. Perfect for events like housewarmings (Griha Pravesh), weddings, or personal celebrations.
 
-- 🌄 Change the background image in `index.html` by replacing the URL in `background` CSS
-- 💌 Add or edit thank-you messages inside the `messages` array
-- 🎨 Adjust fonts and colors in the `<style>` section to match your taste
-- 💻 Deploy easily using GitHub Pages!
+## 🌼 Features
 
-## 🙏 Acknowledgements
+- Full-page **floral background**
+- Responsive and centered design
+- Elegant thank-you message layout
+- Customizable message and styling
 
-- Background image from [Unsplash](https://unsplash.com/photos/floral-background)
-- Inspired by the beauty of new beginnings and gratitude 💖
+## 🖼 Preview
 
----
+![Preview](https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=1470&q=80)
 
-Made with 💐 and joy for a very special occasion!
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/thank-you-card.git
+cd thank-you-card
