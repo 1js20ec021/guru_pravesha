@@ -32,16 +32,33 @@
       font-size: 2.0em;
       color: #333;
     }
+    .container {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+}
+
+footer {
+  font-size: 0.9em;
+  color: #666;
+  text-align: right;
+  width: 100%;
+  max-width: 800px;
+  padding-right: 20px;
+  margin-top: 15px;
+}
+
    
   </style>
 </head>
 <body>
+  <div class="container">
   <div class="message-box">
     <p id="message">Loading gratitude...</p>
   </div>
 
-  <!--<footer>~AshwiniNiranjan🏡</footer>-->
-
+  <footer>~AshwiniNiranjan🏡</footer>
+  </div>
 
   <script>
     const messages = [
